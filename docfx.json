@@ -198,6 +198,9 @@
         "preview/docs-ref-autogen/**/*": "None",
         "legacy/docs-ref-autogen/**/*": "None"
       },
+      "feedback_github_repo": {
+        "**/com.azure.core**.yml": "Azure/azure-sdk-for-java"
+      },
       "ms.service": {
         "**/com.azure.core**.yml": "azure",
         "**/com.azure.core.management**.yml": "azure",
