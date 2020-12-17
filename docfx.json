@@ -202,6 +202,10 @@
         "**/com.azure.core**.yml": "Azure/azure-sdk-for-java",
         "**/docs-ref-services/**.md": "Azure/azure-sdk-for-java"
       },
+      "feedback_system": {
+        "**/com.azure.core**.yml": "GitHub",
+        "**/docs-ref-services/**.md": "GitHub"
+      },
       "ms.service": {
         "**/com.azure.core**.yml": "azure",
         "**/com.azure.core.management**.yml": "azure",
